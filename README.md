@@ -1,7 +1,11 @@
-# teste
+# Teste no SITE OPen Source "PARABANK"
+
+Aqui estou a usar a o framework (CYPRESS), para os teste automatizados.
+
+Fiz cadastro com login valido, e em seguida fiz login com a conta cadastrada.
 
 
  
-irei fazer um cadastro de usuario
 
-apos cadastrar usuario, fazer login
+
+ 
